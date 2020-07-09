@@ -1,6 +1,4 @@
 #!/bin/sh
-# dynamische MOTD
-# Aufruf in /etc/profile (letzte Zeile)
 
 # Datum & Uhrzeit
 DATUM=`date +"%A, %e %B %Y"`
