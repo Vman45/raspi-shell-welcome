@@ -1,3 +1,4 @@
+![enter image description here](https://i.ibb.co/vmsSZRD/screenshot.jpg)
 # Raspberry Pi - welcome shell script
 Better welcome script for shell login on you Raspberry Pi
 
