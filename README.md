@@ -2,7 +2,7 @@
 # Raspberry Pi - welcome shell script
 Better welcome script for shell login on you Raspberry Pi
 
-## Testet with RPI4
+## Testet with Ubuntu/Rasbian
 
 Place the script in any directory you want (here for example in **/home/pi/**) and make it executable.
 
